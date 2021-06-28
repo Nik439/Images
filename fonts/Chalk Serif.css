@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Chalk Serif';
+    src: url('./ChalkSerif.eot');
+    src: url('./ChalkSerif.eot?#iefix') format('embedded-opentype'),
+         url('./ChalkSerif.woff2') format('woff2'),
+         url('./ChalkSerif.woff') format('woff'),
+         url('./ChalkSerif.ttf')  format('truetype'),
+         url('./ChalkSerif.svg#Chalk Serif') format('svg');
+}
