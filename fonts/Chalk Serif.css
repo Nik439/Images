@@ -1,9 +1,8 @@
 @font-face {
     font-family: 'Chalk Serif';
-    src: url('./ChalkSerif.eot');
-    src: url('./ChalkSerif.eot?#iefix') format('embedded-opentype'),
-         url('./ChalkSerif.woff2') format('woff2'),
-         url('./ChalkSerif.woff') format('woff'),
-         url('./ChalkSerif.ttf')  format('truetype'),
-         url('./ChalkSerif.svg#Chalk Serif') format('svg');
+    src: url('https://github.com/Nik439/Images/blob/45e356d57928e4a9006eb5295662c17f2590dec8/fonts/ChalkSerif.eot');
+    src: url('https://github.com/Nik439/Images/blob/45e356d57928e4a9006eb5295662c17f2590dec8/fonts/ChalkSerif.woff2') format('woff2'),
+         url('https://github.com/Nik439/Images/blob/45e356d57928e4a9006eb5295662c17f2590dec8/fonts/ChalkSerif.woff') format('woff'),
+         url('https://github.com/Nik439/Images/blob/45e356d57928e4a9006eb5295662c17f2590dec8/fonts/ChalkSerif.ttf')  format('truetype'),
+         url('https://github.com/Nik439/Images/blob/45e356d57928e4a9006eb5295662c17f2590dec8/fonts/ChalkSerif.svg#Chalk Serif') format('svg');
 }
